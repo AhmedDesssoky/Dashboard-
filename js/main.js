@@ -33,7 +33,7 @@ var options = {
   chart: {
     type: 'area',
     height: '100%',
-    width: '90%',
+    width: '87%',
   },
   series: [{
     name: 'area',
